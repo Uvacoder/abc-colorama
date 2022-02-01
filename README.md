@@ -1,4 +1,6 @@
-# FarbVelo
+# colors-abc
+
+<img src="screenshot-colors-abc.png" />
 --
 "Random" color palette generator.  
 ## Farbvelo
